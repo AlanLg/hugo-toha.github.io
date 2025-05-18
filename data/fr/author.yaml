@@ -2,7 +2,7 @@
 name: "Alan Le Gall"
 nickname: "Alan"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Bonjour, je suis"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:

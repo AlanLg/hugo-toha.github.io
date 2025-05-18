@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: A Propos
   id: about
   enable: true
   weight: 1
@@ -54,13 +54,13 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Travailler en equipe
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Anglais
+  percentage: 95
   color: orange
 
 # you can also provide color code instead of the color name
