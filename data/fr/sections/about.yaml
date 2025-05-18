@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Backed Developer
+designation: Developpeur Backend
 # your company information
 company:
   name: Allianz Technology France
@@ -19,7 +19,9 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Je m’appelle Alan, étudiant en 5e année à l’ESIEA et alternant chez Allianz en développement logiciel. Passionné par l’informatique, j’aime apprendre, résoudre des problèmes et innover.
+Curieux et rigoureux, je valorise l’entraide, la diversité et la simplicité. J’accorde une grande importance à l’écoute et à la patience, ce qui m’aide autant dans ma vie personnelle que professionnelle.
+Amateur de voyages, j’aime découvrir de nouvelles cultures. Mon objectif est d’évoluer dans le développement logiciel et de travailler sur des projets innovants, en France ou à l’international, tout en gardant un bon équilibre de vie.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
