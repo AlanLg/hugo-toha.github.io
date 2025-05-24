@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: développement en java
     identifier: java
-    weight: 31
+    weight: 29
 ---
 # 
 

@@ -4,7 +4,7 @@ date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:
     name: Compétences Internationales
-    identifier: internationale
+    identifier: international
     weight: 30
 ---
 # 
@@ -17,13 +17,13 @@ La compétence internationale, dans le contexte de mon alternance, se définit p
 
 ## Éléments de Preuve
 
-### Anecdote 1 : Voyage en Inde
+### Voyage en Inde
 Lors de mon voyage en Inde pour rencontrer mes collègues indiens, j'ai pu mettre en pratique mes compétences linguistiques et interculturelles. Les réunions et discussions techniques se sont déroulées entièrement en anglais, et ma maîtrise de la langue a facilité une communication claire et efficace. Ce voyage m'a permis de mieux comprendre les dynamiques culturelles de l'équipe indienne et d'établir des relations de travail solides, ce qui a grandement amélioré notre collaboration sur le projet.
 
-### Anecdote 2 : Présentation Technique en Anglais
+### Présentation Technique en Anglais
 J'ai eu l'occasion de faire une présentation en anglais devant tous nos collègues indiens sur les nouvelles fonctionnalités de Spring Boot dans sa dernière version, ainsi que sur les différents outils d'IA utilisés au sein d'Allianz. Cette présentation a été un moment clé pour démontrer non seulement ma maîtrise technique, mais aussi ma capacité à communiquer des concepts complexes de manière claire et engageante dans un contexte international. Mon bilinguisme a été un atout majeur, permettant une interaction fluide et une compréhension mutuelle avec l'audience.
 
-### Anecdote 3 : Adaptation Culturelle et Résolution de Problèmes
+### Adaptation Culturelle et Résolution de Problèmes
 Lors d'un projet récent, des divergences culturelles ont émergé au sein de l'équipe concernant les méthodes de travail. Grâce à ma capacité à comprendre et à m'adapter à différentes perspectives culturelles, j'ai pu médiatiser ces différences et proposer des solutions qui respectaient les approches de chacun. Cette expérience a renforcé la cohésion de l'équipe et a permis d'atteindre les objectifs du projet dans les délais impartis.
 
 ## Autocritique
@@ -36,9 +36,6 @@ Bien que je sois à l'aise dans la plupart des situations internationales, certa
 
 ## Importance dans Mon Profil
 Cette compétence est essentielle dans mon profil d'expert en ingénierie, car elle me permet de travailler efficacement dans un environnement globalisé. Elle est également alignée avec mes responsabilités actuelles, qui nécessitent une collaboration étroite avec des équipes internationales.
-
-## Conseils et Recul
-Avec l'expérience que j'ai acquise, je conseillerais à quiconque souhaitant développer cette compétence de s'immerger autant que possible dans des contextes multiculturels et de pratiquer activement l'anglais dans des situations professionnelles.
 
 ## Évolution de la Compétence
 

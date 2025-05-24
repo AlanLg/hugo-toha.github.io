@@ -2,10 +2,10 @@
 title: "Réalisation : Un clone de Twitter"
 date: 2025-03-08T08:06:25+06:00
 menu:
-sidebar:
-name: Clone de Twitter
-identifier: fastlink
-weight: 32
+    sidebar:
+        name: Clone de Twitter
+        identifier: fastlink
+        weight: 34
 ---
 
 # FastLink
