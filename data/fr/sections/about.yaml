@@ -28,11 +28,11 @@ Amateur de voyages, j’aime découvrir de nouvelles cultures. Mon objectif est 
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "alan@gmail.com"
+  url: "alanlg2001@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/AlanLg"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -50,7 +50,7 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 75
   color: blue
 
 - type: soft-skill-indicator
