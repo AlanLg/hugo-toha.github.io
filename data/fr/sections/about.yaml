@@ -19,7 +19,11 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Je m’appelle Alan, étudiant en 5e année à l’ESIEA et alternant chez Allianz en développement logiciel. Passionné par l’informatique, j’aime apprendre, résoudre des problèmes et innover.
+# TODO: quand il est publie je serais plus a l'ESIA
+# TODO: mettre des paragraphes au lieu d'un seul gros bloc
+# TODO: citer un voyage que j'ai fais lors de la partie voyage
+# TODO: parler de ma double nationalite
+summary: 'étudiant en 5e année à l’ESIEA et alternant chez Allianz en développement logiciel. Passionné par l’informatique, j’aime apprendre, résoudre des problèmes et innover.
 Curieux et rigoureux, je valorise l’entraide, la diversité et la simplicité. J’accorde une grande importance à l’écoute et à la patience, ce qui m’aide autant dans ma vie personnelle que professionnelle.
 Amateur de voyages, j’aime découvrir de nouvelles cultures. Mon objectif est d’évoluer dans le développement logiciel et de travailler sur des projets innovants, en France ou à l’international, tout en gardant un bon équilibre de vie.'
 
@@ -28,7 +32,7 @@ Amateur de voyages, j’aime découvrir de nouvelles cultures. Mon objectif est 
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "alanlg2001@gmail.com"
+  url: "alanlegall2001@gmail.com"
 
 - name: Github
   icon: "fab fa-github"

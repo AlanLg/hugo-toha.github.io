@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: Communication Technique et Présentation
     identifier: presentations
-    weight: 33
+    weight: 26
 ---
 
 #   Communication Technique et Présentation
@@ -28,15 +28,13 @@ La maîtrise de la communication technique et de la présentation est fondamenta
 
 * Stimuler mon développement professionnel en approfondissant mes connaissances techniques et en structurant ma pensée de manière logique.
 
-##   Preuves de Maîtrise
-
 ###   Diffusion des Connaissances sur les Outils d'IA
 
 En mai 2023, j'ai conçu et animé une session de présentation axée sur les outils d'intelligence artificielle et leurs applications pratiques. Cette initiative visait à familiariser mes collègues avec le potentiel de l'IA et à illustrer son utilité à travers des exemples concrets. La présentation a rassemblé un public de 15 participants en présentiel et 50 en visioconférence. J'ai veillé à adapter mon discours pour répondre aux besoins d'un public varié, allant des débutants aux utilisateurs plus expérimentés. Les retours ont été très positifs, avec un niveau élevé d'engagement et de nombreuses questions démontrant l'intérêt suscité par le sujet.
 
 ###   Co-animation de la Session Emerge : Java Bytecode et JReleaser
 
-En octobre 2023, j'ai collaboré avec Julien et Xavier pour co-animer une session lors de l'événement Emerge. Nous avons présenté deux sujets techniques avancés : le bytecode Java et l'outil JReleaser. La session a été suivie par 20 participants en présentiel et 80 en visioconférence. Cette présentation exigeait une solide maîtrise des sujets traités et une capacité à les rendre accessibles à un public diversifié. Nous avons utilisé des exemples pratiques et des démonstrations en direct pour faciliter la compréhension des concepts. La session a été très bien accueillie, avec un public actif et de nombreuses interactions.
+En octobre 2023, j'ai collaboré avec deux de mes colleagues pour co-animer une session lors de l'événement Emerge. Nous avons présenté deux sujets techniques avancés : le bytecode Java et l'outil JReleaser. La session a été suivie par 20 participants en présentiel et 80 en visioconférence. Cette présentation exigeait une solide maîtrise des sujets traités et une capacité à les rendre accessibles à un public diversifié. Nous avons utilisé des exemples pratiques et des démonstrations en direct pour faciliter la compréhension des concepts. La session a été très bien accueillie, avec un public actif et de nombreuses interactions.
 
 ###   Démonstration de GitHub Copilot
 
@@ -44,7 +42,7 @@ En février 2024, j'ai effectué une présentation ciblée de GitHub Copilot à 
 
 ###   Mission de Formation Technique en Inde (Pune)
 
-En mai 2024, j'ai eu l'opportunité de me rendre à Pune, en Inde, pour rencontrer et former nos collègues indiens sur divers sujets techniques. J'ai animé plusieurs sessions de présentation en anglais, ce qui a permis de mettre en pratique mes compétences linguistiques en plus de mes compétences techniques. Les sujets abordés comprenaient les bonnes pratiques de codage, une comparaison détaillée de Java 17 et 21, GitHub Copilot, Kafka et Spring 3.3. Chaque session a réuni environ 15 participants. Cette expérience internationale m'a permis de développer ma capacité à m'adapter à un contexte culturel différent, à communiquer efficacement dans un environnement multilingue et à vulgariser des concepts techniques complexes pour un public varié.
+En mai 2024, j'ai eu l'opportunité de me rendre à Pune, pour rencontrer et former nos collègues indiens sur divers sujets techniques. J'ai animé plusieurs sessions de présentation en anglais, ce qui a permis de mettre en pratique mes compétences linguistiques en plus de mes compétences techniques. Les sujets abordés comprenaient les bonnes pratiques de codage, une comparaison détaillée de Java 17 et 21, GitHub Copilot, Kafka et Spring 3.3. Chaque session a réuni environ 15 participants. Cette expérience internationale m'a permis de développer ma capacité à m'adapter à un contexte culturel différent, à communiquer efficacement dans un environnement multilingue et à vulgariser des concepts techniques complexes pour un public varié.
 
 ##   Auto-évaluation de Mes Compétences
 

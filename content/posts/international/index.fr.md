@@ -5,17 +5,13 @@ menu:
   sidebar:
     name: Compétences Internationales
     identifier: international
-    weight: 30
+    weight: 29
 ---
-# 
 
-## Introduction
-Dans le cadre de mon alternance, j'ai eu l'opportunité de développer des compétences transverses essentielles, notamment dans le domaine international. Mon bilinguisme en anglais a joué un rôle clé dans cette expérience, me permettant de collaborer efficacement avec des équipes du monde entier. Cet article explore comment cette compétence s'est manifestée dans mon travail quotidien et lors de mon voyage en Inde pour rencontrer mes collègues indiens.
+Dans le cadre de mon alternance, j'ai eu l'opportunité de développer des compétences transverses essentielles, notamment dans le domaine international. Mon bilinguisme en anglais m'a beaucoup aidé dans cette expérience, me permettant de collaborer efficacement avec des équipes du monde entier. Cet article explore comment cette compétence s'est manifestée dans mon travail quotidien et lors de mon voyage en Inde pour rencontrer mes collègues indiens.
 
 ## Définition de la Compétence
 La compétence internationale, dans le contexte de mon alternance, se définit par la capacité à travailler efficacement avec des équipes multiculturelles, à comprendre et s'adapter aux dynamiques des marchés étrangers, et à communiquer de manière fluide en anglais. Cette compétence est cruciale dans un environnement professionnel de plus en plus globalisé, où la collaboration internationale est essentielle pour le succès des projets.
-
-## Éléments de Preuve
 
 ### Voyage en Inde
 Lors de mon voyage en Inde pour rencontrer mes collègues indiens, j'ai pu mettre en pratique mes compétences linguistiques et interculturelles. Les réunions et discussions techniques se sont déroulées entièrement en anglais, et ma maîtrise de la langue a facilité une communication claire et efficace. Ce voyage m'a permis de mieux comprendre les dynamiques culturelles de l'équipe indienne et d'établir des relations de travail solides, ce qui a grandement amélioré notre collaboration sur le projet.

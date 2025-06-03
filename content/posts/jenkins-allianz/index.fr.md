@@ -3,7 +3,7 @@ title: "Réalisation : Modernisation des pipelines Jenkins chez Allianz Technolo
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:
-    name: modernisation des pipelines Jenkins
+    name: Modernisation des Pipelines Jenkins
     identifier: jekins
     weight: 32
 ---

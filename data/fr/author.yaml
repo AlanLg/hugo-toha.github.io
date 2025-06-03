@@ -1,8 +1,8 @@
 # some information about you
 name: "Alan Le Gall"
-nickname: "Alan"
+nickname: "Alan Le Gall"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Bonjour, je suis"
+greeting: "Bonjour, je suis" # TODO: pas de bonjour je suis (des la page d'acceil on me photographie de facon global)
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -14,5 +14,5 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - Je suis un developpeur
-  - J'aime decouvrir des nouvelles choses
+  - Je suis un developpeur Java
+  - J'aime decouvrir des nouvelles choses # TODO: mot chose est pas genial (nouvelles techniques, nouveau langage)

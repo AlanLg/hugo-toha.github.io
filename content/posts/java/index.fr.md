@@ -3,12 +3,10 @@ title: "Article de Compétence : Java une compétence clé pour le développemen
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:
-    name: développement en java
+    name: Développement en Java
     identifier: java
-    weight: 29
+    weight: 30
 ---
-# 
-
 # Java : une compétence clé pour le développement d'applications
 
 ## Définition personnelle

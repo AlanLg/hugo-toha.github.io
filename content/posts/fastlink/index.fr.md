@@ -5,7 +5,7 @@ menu:
     sidebar:
         name: Clone de Twitter
         identifier: fastlink
-        weight: 34
+        weight: 27
 ---
 
 # FastLink
@@ -137,7 +137,7 @@ Cette expérience, tout en étant très positive, m'a également
 permis d'identifier des axes d'amélioration pour mes futurs projets
 :
 
-- Une planification initiale des tâches et des dépendances encore plus détaillés permettrait d'anticiper certains blocages.
+- Une planification initiale des tâches et des dépendances encore plus détaillées permettrait d'anticiper certains blocages.
 - L'instauration de revues de code systématiques.
 - Une réflexion peut être plus poussée sur le découpage et l'architecture.
 
