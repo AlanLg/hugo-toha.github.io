@@ -5,6 +5,7 @@ menu:
   sidebar:
     name: Compétences Git
     identifier: git
+    parent: technique
     weight: 28
 ---
 

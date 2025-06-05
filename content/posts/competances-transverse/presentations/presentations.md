@@ -5,6 +5,7 @@ menu:
   sidebar:
     name: Communication Technique et Présentation
     identifier: presentations
+    parent: transverse
     weight: 26
 ---
 

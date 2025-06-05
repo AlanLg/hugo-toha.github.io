@@ -5,6 +5,7 @@ menu:
     sidebar:
         name: Clone de Twitter
         identifier: fastlink
+        parent: realisations
         weight: 27
 ---
 

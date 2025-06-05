@@ -5,6 +5,7 @@ menu:
   sidebar:
     name: Validation des address
     identifier: address
+    parent: realisations
     weight: 31
 ---
 # 

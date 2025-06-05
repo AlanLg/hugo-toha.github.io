@@ -5,6 +5,7 @@ menu:
   sidebar:
     name: Modernisation des Pipelines Jenkins
     identifier: jekins
+    parent: realisations
     weight: 32
 ---
 # 

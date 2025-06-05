@@ -5,6 +5,7 @@ menu:
   sidebar:
     name: Compétences Internationales
     identifier: international
+    parent: transverse
     weight: 29
 ---
 
