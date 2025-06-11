@@ -1,18 +1,22 @@
 # some information about you
 name: "Alan Le Gall"
-nickname: "Alan Le Gall"
+nickname: "Alan"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Bonjour, je suis" # TODO: pas de bonjour je suis (des la page d'acceil on me photographie de facon global)
+greeting: "Bienvenu sur le portfolio de "
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "johndoe@example.com"
   phone: "+0123456789"
   github: AlanLg
-  linkedin: johndoe
+  linkedin: alanlegall
   researchgate: john-doe
 
 # some summary about what you do
 summary:
-  - Je suis un developpeur Java
-  - J'aime decouvrir des nouvelles choses # TODO: mot chose est pas genial (nouvelles techniques, nouveau langage)
+  - Développeur Java
+  - Je suis passionné de voyages
+  - J'aime apprendre et découvrir
+  - Je suis enthousiaste des défis techniques
+  - Explorateur de cultures et de codes
+  - Bilingue et ouvert au monde
