@@ -7,16 +7,11 @@ section:
   hideTitle: false # Can optionally hide the title in sections (default: false)
 
 # posts to feature
-# TODO: differencier les competances techniques et humaines
-# TODO: faire une autre partie pour les realisations
 # TODO: presonaliser les articles avec quelques petites annecdodes/blagues/trucs marrant
 # TODO: raconter des histoires pour justifier mes propos
 # TODO: separer plus de paragraphes
-# TODO: (Article Clone de Twitter) preciser le niveau de performance que je m'etais fix pour les competances comme spring boot etc...
 # TODO: plus d'exemples (qu'est ce que j'ai appris sur la rigeur) defendre mes propos avec des anecdotes
-# TODO: NE PAS UTILISER LE MOT ROBUSTE
 # TODO: (Article Git) contribution a des projets open source parler de ma contribution au truc js
-# TODO: (Article Git) peut etre revoir un peu la conclusion, moins me repeter plutot me poser une question (ce que git pourrait devenir a l'avenir)
 # TODO: (Article International) "voyage en inde Lors de mon voyage en inde" enlever la repetition
 # TODO: (Article International) enlever une partie de l'autocritique qui sert a rien
 # TODO: (Article International) parler de l'anecdote en inde du hochement de la tete

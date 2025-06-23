@@ -9,38 +9,38 @@ menu:
     weight: 29
 ---
 
-Dans le cadre de mon alternance, j'ai eu l'opportunité de développer des compétences transverses essentielles, notamment dans le domaine international. Mon bilinguisme en anglais m'a beaucoup aidé dans cette expérience, me permettant de collaborer efficacement avec des équipes du monde entier. Cet article explore comment cette compétence s'est manifestée dans mon travail quotidien et lors de mon voyage en Inde pour rencontrer mes collègues indiens.
+Dans le cadre de mon travail, la compétence internationale est devenue bien plus qu'une simple ligne sur mon profil. C'est une pratique quotidienne qui consiste à collaborer avec des équipes du monde entier. Mon bilinguisme en anglais a bien sûr été une porte d'entrée, mais j'ai vite compris que la vraie compétence résidait dans la capacité à comprendre et à s'adapter à d'autres cultures. Mon voyage professionnel en Inde, pour rencontrer mes collègues, a été l'expérience la plus marquante à ce sujet.
 
-## Définition de la Compétence
-La compétence internationale, dans le contexte de mon alternance, se définit par la capacité à travailler efficacement avec des équipes multiculturelles, à comprendre et s'adapter aux dynamiques des marchés étrangers, et à communiquer de manière fluide en anglais. Cette compétence est cruciale dans un environnement professionnel de plus en plus globalisé, où la collaboration internationale est essentielle pour le succès des projets.
+## La Compétence en Pratique et Mon Expérience en Inde
 
-### Voyage en Inde
-Lors de mon voyage en Inde pour rencontrer mes collègues indiens, j'ai pu mettre en pratique mes compétences linguistiques et interculturelles. Les réunions et discussions techniques se sont déroulées entièrement en anglais, et ma maîtrise de la langue a facilité une communication claire et efficace. Ce voyage m'a permis de mieux comprendre les dynamiques culturelles de l'équipe indienne et d'établir des relations de travail solides, ce qui a grandement amélioré notre collaboration sur le projet.
+Mon voyage en Inde n'était pas un simple déplacement, c'était une véritable immersion professionnelle et culturelle qui a mis mes compétences à l'épreuve.
 
-### Présentation Technique en Anglais
-J'ai eu l'occasion de faire une présentation en anglais devant tous nos collègues indiens sur les nouvelles fonctionnalités de Spring Boot dans sa dernière version, ainsi que sur les différents outils d'IA utilisés au sein d'Allianz. Cette présentation a été un moment clé pour démontrer non seulement ma maîtrise technique, mais aussi ma capacité à communiquer des concepts complexes de manière claire et engageante dans un contexte international. Mon bilinguisme a été un atout majeur, permettant une interaction fluide et une compréhension mutuelle avec l'audience.
+### Présenter et Échanger des Idées Techniques
 
-### Adaptation Culturelle et Résolution de Problèmes
-Lors d'un projet récent, des divergences culturelles ont émergé au sein de l'équipe concernant les méthodes de travail. Grâce à ma capacité à comprendre et à m'adapter à différentes perspectives culturelles, j'ai pu médiatiser ces différences et proposer des solutions qui respectaient les approches de chacun. Cette expérience a renforcé la cohésion de l'équipe et a permis d'atteindre les objectifs du projet dans les délais impartis.
+L'un des moments forts a été la présentation technique que j'ai faite en anglais à tous nos collègues indiens. Je leur ai exposé les nouvelles fonctionnalités de la dernière version de Spring Boot et présenté les différents outils d'IA que nous utilisons chez Allianz. Cet exercice m'a permis de valider ma capacité à expliquer des sujets techniques complexes à un public international et à répondre à leurs questions, assurant que nous partagions tous la même compréhension.
 
-## Autocritique
+### L'Importance du Non-Verbal l'anecdote du Hochement de Tête
 
-### Niveau de Maîtrise
-Je considère avoir un niveau avancé de maîtrise de cette compétence, notamment grâce à mon bilinguisme en anglais. Cependant, je suis conscient que chaque contexte culturel présente ses propres défis, et il reste toujours des aspects à améliorer.
+C'est dans les interactions quotidiennes que j'ai le plus appris. Durant une réunion, je présentais une solution à un problème technique. En face de moi, mon collègue indien hochait la tête d'une manière particulière, un balancement latéral que je ne connaissais pas. Dans ma culture, ce geste se rapproche d'un "non" ou d'un doute. J'ai donc cru qu'il était en désaccord et j'ai commencé à reformuler, un peu déstabilisé.
 
-### Limites et Contexte
-Bien que je sois à l'aise dans la plupart des situations internationales, certaines nuances culturelles peuvent encore m'échapper. Par exemple, les subtilités des communications non verbales dans certaines cultures restent un domaine où je peux encore progresser.
+Plus tard, en discutant avec lui de manière informelle, j'ai compris ma méprise. Ce hochement de tête, très courant en Inde, est en réalité une marque d'approbation, une façon de dire "oui, je comprends" ou "je suis d'accord, continue". Cette anecdote, qui peut paraître simple, a été une véritable révélation. J'ai compris que la communication passait par bien plus que les mots et que sans une conscience des spécificités culturelles, des malentendus importants pouvaient survenir.
 
-## Importance dans Mon Profil
-Cette compétence est essentielle dans mon profil d'expert en ingénierie, car elle me permet de travailler efficacement dans un environnement globalisé. Elle est également alignée avec mes responsabilités actuelles, qui nécessitent une collaboration étroite avec des équipes internationales.
+### D'autres Observations du Quotidien
 
-## Évolution de la Compétence
+Au-delà de cette anecdote, j'ai noté beaucoup d'autres différences enrichissantes : la manière dont les réunions commençaient souvent par des discussions plus personnelles, créant un lien avant de parler travail ; ou encore une approche parfois plus collective et consensuelle dans la prise de décision. Chaque observation était une leçon.
 
-### Projet Personnel et Professionnel
-À long terme, je souhaite continuer à travailler dans des environnements internationaux et à développer davantage cette compétence. Mon objectif est de devenir un leader capable de diriger des équipes multiculturelles et de naviguer avec aisance dans des contextes professionnels variés.
+## Bilan Critique
 
-### Formations ou Autoformations
-Pour renforcer cette compétence, je prévois de suivre des formations en communication interculturelle et de continuer à pratiquer l'anglais dans des contextes professionnels diversifiés.
+L'expérience en Inde, et en particulier l'anecdote du hochement de tête, illustre bien mon niveau de maîtrise et mes axes de progression. Je suis très à l'aise pour communiquer en anglais sur des sujets techniques complexes. Cependant, je sais maintenant que la véritable compétence internationale se niche dans la compréhension des subtilités culturelles et de la communication non verbale.
+
+Mon principal axe d'amélioration est donc de développer une sensibilité plus fine à ces signaux culturels, en restant curieux et en n'hésitant pas à poser des questions pour clarifier des situations qui pourraient sembler ambiguës.
+
+## Importance et Évolution de la Compétence
+
+Cette compétence est essentielle dans mon profil, car le développement logiciel aujourd'hui est rarement l'affaire d'une seule équipe locale. Pour la suite, mon objectif est clair : continuer à travailler dans des contextes internationaux. Je ne cherche pas seulement à maîtriser une communication professionnelle, mais à développer une aisance interculturelle qui me permettrait de diriger des équipes multiculturelles avec empathie et efficacité.
+
+Pour cela, au-delà des formations, c'est l'expérience pratique qui primera. Chaque nouvelle interaction avec un collègue d'une autre culture est une opportunité d'apprendre et de m'améliorer.
 
 ## Conclusion
-La compétence internationale, renforcée par mon bilinguisme en anglais, est un atout majeur dans mon parcours professionnel. Elle m'a permis de collaborer efficacement avec des équipes du monde entier et de contribuer au succès de projets complexes. Je suis déterminé à continuer à développer cette compétence pour répondre aux défis et opportunités d'un marché de plus en plus globalisé.
+
+La compétence internationale, bien plus qu'une simple maîtrise de l'anglais, est la capacité à créer des ponts entre les cultures. Mon voyage en Inde m'a appris que les plus grandes avancées dans un projet international ne viennent pas seulement de la clarté technique, mais aussi de la compréhension mutuelle et du respect des différences. C'est un chemin d'apprentissage continu, et je suis déterminé à le poursuivre tout au long de ma carrière.

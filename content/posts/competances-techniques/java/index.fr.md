@@ -14,7 +14,7 @@ Java est un langage qui a marqué le début de ma passion pour le développement
 
 ## Ma Définition Personnelle et l'Importance de Java
 
-Pour moi, Java représente la polyvalence et la robustesse. C'est le premier langage "sérieux" avec lequel j'ai vraiment accroché.
+Pour moi, Java représente la polyvalence. C'est le premier langage "sérieux" avec lequel j'ai vraiment accroché.
 
 Tout a commencé au lycée, quand je me suis mis à coder ce qu'on appelle des "plugins Minecraft". Pour faire simple, un plugin Minecraft, c'est un ajout de code qui modifie ou ajoute des fonctionnalités au jeu vidéo Minecraft. J'utilisais Bukkit, qui est une interface de programmation (API) très populaire, permettant justement de créer ces plugins en Java plus facilement.
 

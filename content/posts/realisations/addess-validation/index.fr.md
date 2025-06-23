@@ -18,7 +18,7 @@ Ce projet repose sur le développement d’un service back-end intégré aux app
 
 Pour Allianz, ce système réduit les erreurs et optimise le travail des équipes métiers grâce à une validation automatisée. De mon côté, je renforce mes compétences techniques, notamment en Java et en intégration d’API, tout en menant un projet stratégique. J’ai pour objectif de livrer un système fonctionnel en six semaines, avec des résultats mesurables comme un taux de validation de 95 %.
 
-Je commence par analyser les besoins en échangeant avec les équipes métiers pour comprendre les cas d’utilisation et les données nécessaires. Ensuite, je développe le service en Java, en utilisant Spring Boot et en intégrant l’API GIS. Je mets en place des tests unitaires pour garantir la robustesse du système. Après plusieurs phases de tests, je déploie le service en production et l’intègre dans les systèmes existants.
+Je commence par analyser les besoins en échangeant avec les équipes métiers pour comprendre les cas d’utilisation et les données nécessaires. Ensuite, je développe le service en Java, en utilisant Spring Boot et en intégrant l’API GIS. Je mets en place des tests unitaires pour garantir la qualite du système. Après plusieurs phases de tests, je déploie le service en production et l’intègre dans les systèmes existants.
 
 Les premiers résultats confirment l’efficacité du projet. Le système valide automatiquement 92 % des adresses dès sa mise en service, ce qui réduit de 45 % les erreurs en trois mois. Les équipes métiers apprécient également la simplicité d’utilisation de l’outil, qui facilite leur travail au quotidien.
 
