@@ -1,5 +1,5 @@
 ---
-title: "Article de Compétence : Maîtrise de l'outil de gestion de version Git"
+title: "Compétence Technique : Maîtrise de l'outil de gestion de version Git"
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:

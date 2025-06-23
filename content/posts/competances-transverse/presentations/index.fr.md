@@ -1,5 +1,5 @@
 ---
-title: "Article de Compétence : Communication Technique et Présentation"
+title: "Compétence Transverse : Communication Technique et Présentation"
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:

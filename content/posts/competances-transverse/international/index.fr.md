@@ -1,5 +1,5 @@
 ---
-title: "Article de Compétence : Maîtrise des Compétences Internationales en Alternance"
+title: "Compétence Transverse : Maîtrise des Compétences Internationales en Alternance"
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:
@@ -23,11 +23,11 @@ L'un des moments forts a été la présentation technique que j'ai faite en angl
 
 C'est dans les interactions quotidiennes que j'ai le plus appris. Durant une réunion, je présentais une solution à un problème technique. En face de moi, mon collègue indien hochait la tête d'une manière particulière, un balancement latéral que je ne connaissais pas. Dans ma culture, ce geste se rapproche d'un "non" ou d'un doute. J'ai donc cru qu'il était en désaccord et j'ai commencé à reformuler, un peu déstabilisé.
 
-Plus tard, en discutant avec lui de manière informelle, j'ai compris ma méprise. Ce hochement de tête, très courant en Inde, est en réalité une marque d'approbation, une façon de dire "oui, je comprends" ou "je suis d'accord, continue". Cette anecdote, qui peut paraître simple, a été une véritable révélation. J'ai compris que la communication passait par bien plus que les mots et que sans une conscience des spécificités culturelles, des malentendus importants pouvaient survenir.
+Plus tard, en discutant avec lui, j'ai compris, Ce hochement de tête, très courant en Inde, est en réalité une marque d'approbation, une façon de dire "oui, je comprends" ou "je suis d'accord, continue". Cette anecdote, qui peut paraître simple, a été une véritable révélation. J'ai compris que la communication passait par bien plus que les mots et que sans une conscience des spécificités culturelles, des malentendus importants pouvaient survenir.
 
 ### D'autres Observations du Quotidien
 
-Au-delà de cette anecdote, j'ai noté beaucoup d'autres différences enrichissantes : la manière dont les réunions commençaient souvent par des discussions plus personnelles, créant un lien avant de parler travail ; ou encore une approche parfois plus collective et consensuelle dans la prise de décision. Chaque observation était une leçon.
+Au-delà de cette anecdote, j'ai noté beaucoup d'autres différences enrichissantes notamment la manière dont les réunions commençaient souvent par des discussions plus personnelles, créant un lien avant de parler travail ; ou encore une approche parfois plus collective et consensuelle dans la prise de décision. Chaque observation était une leçon.
 
 ## Bilan Critique
 

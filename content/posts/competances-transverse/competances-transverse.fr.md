@@ -1,8 +1,8 @@
 ---
-title: Competances Transverse
+title: Competences Transverse
 menu:
   sidebar:
-    name: Competances Transverse
+    name: Competences Transverse
     identifier: transverse
     weight: 21
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Article de Compétence : System D'exploitation Linux"
+title: "Compétence Technique : System D'exploitation Linux"
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:

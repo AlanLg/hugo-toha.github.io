@@ -13,7 +13,11 @@ menu:
 # Modernisation des pipelines Jenkins chez Allianz Technology
 
 ## Un Contexte en Pleine Transformation
-Je travaille au sein d'Allianz Technology France, sur le projet Midcorp, ce projet consiste à développer un site pour créer des contrats d’assurance pour les entreprises de taille moyenne. Ce projet est développé par dix équipes de développement, chacune se concentrant sur un domaine spécifique. Mon équipe, l'équipe 7, se concentre sur le domaine géographique. Elle se charge principalement de l’évaluation des risques pour un lieu donné, par exemple la probabilité d’avoir un tremblement de terre ou des inondations. Ceci permet d’aider au calcul du prix du contrat d’assurance. Moi je travaille principalement sur le microservice geo-risk, c’est un des nombreux microservices du projet. Mais durant la première phase du projet nous avons découvert un problème majeur, chaque microservice utilisait un script de configuration différent pour la pipeline Jenkins. Cela signifie que si nous voulions apporter des modifications, nous devrions les appliquer à chaque script individuellement, ce qui serait fastidieux et risqué en termes d'erreurs potentielles.
+Je travaille au sein d'Allianz Technology France, sur le projet Midcorp, ce projet consiste à développer un site pour créer des contrats d’assurance pour les entreprises de taille moyenne. 
+
+Ce projet est développé par dix équipes de développement, chacune se concentrant sur un domaine spécifique. Mon équipe, l'équipe 7, se concentre sur le domaine géographique. Elle se charge principalement de l’évaluation des risques pour un lieu donné, par exemple la probabilité d’avoir un tremblement de terre ou des inondations. Ceci permet d’aider au calcul du prix du contrat d’assurance. Moi je travaille principalement sur le microservice geo-risk, c’est un des nombreux microservices du projet.
+
+Mais durant la première phase du projet nous avons découvert un problème majeur, chaque microservice utilisait un script de configuration différent pour la pipeline Jenkins. Cela signifie que si nous voulions apporter des modifications, nous devrions les appliquer à chaque script individuellement, ce qui serait fastidieux et risqué en termes d'erreurs potentielles.
 J’avais donc pour objectif de développer un script qui pourrait être réutilisé dans tous les microservices du projet, on appelle ça une bibliothèque Jenkins partagée.
 
 ## Une Bibliothèque Jenkins Partagée

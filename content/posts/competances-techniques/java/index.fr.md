@@ -1,5 +1,5 @@
 ---
-title: "Article de Compétence : Java une compétence clé pour le développement d'applications"
+title: "Compétence Technique : Java une compétence clé pour le développement d'applications"
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:

@@ -1,5 +1,5 @@
 ---
-title: "Article de Compétence : L'autonomie"
+title: "Compétence Transverse : L'autonomie"
 date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:
