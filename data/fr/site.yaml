@@ -1,9 +1,6 @@
 # Copyright Notice
 copyright: © 2025 Copyright.
 
-# TODO: en haut a gauche alan le gall
-# TODO: au milieu mon metier
-
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: ""
 

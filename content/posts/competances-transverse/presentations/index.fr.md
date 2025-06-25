@@ -35,11 +35,11 @@ En mai 2023, j'ai conçu et animé une session de présentation axée sur les ou
 
 ###   Co-animation de la Session Emerge : Java Bytecode et JReleaser
 
-En octobre 2023, j'ai collaboré avec deux de mes colleagues pour co-animer une session lors de l'événement Emerge. Nous avons présenté deux sujets techniques avancés : le bytecode Java et l'outil JReleaser. La session a été suivie par 20 participants en présentiel et 80 en visioconférence. Cette présentation exigeait une solide maîtrise des sujets traités et une capacité à les rendre accessibles à un public diversifié. Nous avons utilisé des exemples pratiques et des démonstrations en direct pour faciliter la compréhension des concepts. La session a été très bien accueillie, avec un public actif et de nombreuses interactions.
+En octobre 2023, j'ai collaboré avec deux de mes collègues pour co-animer une session lors de l'événement Emerge. Nous avons présenté deux sujets techniques avancés : le bytecode Java et l'outil JReleaser. La session a été suivie par 20 participants en présentiel et 80 en visioconférence. Cette présentation exigeait une solide maîtrise des sujets traités et une capacité à les rendre accessibles à un public diversifié. Nous avons utilisé des exemples pratiques et des démonstrations en direct pour faciliter la compréhension des concepts. La session a été très bien accueillie, avec un public actif et de nombreuses interactions.
 
 ###   Démonstration de GitHub Copilot
 
-En février 2024, j'ai effectué une présentation ciblée de GitHub Copilot à Goulay. Le public, composé de 4 personnes en présentiel, a permis une approche plus interactive et personnalisée. J'ai pu démontrer les fonctionnalités et les avantages de l'outil de manière approfondie, en répondant aux questions spécifiques des participants et en adaptant la démonstration à leurs cas d'utilisation.
+En février 2024, j'ai effectué une présentation ciblée de GitHub Copilot à des collègues. Le public, composé de 4 personnes en présentiel, a permis une approche plus interactive et personnalisée. J'ai pu démontrer les fonctionnalités et les avantages de l'outil de manière approfondie, en répondant aux questions spécifiques des participants et en adaptant la démonstration à leurs cas d'utilisation.
 
 ###   Mission de Formation Technique en Inde (Pune)
 
