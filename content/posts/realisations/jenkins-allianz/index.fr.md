@@ -4,7 +4,7 @@ date: 2025-03-08T08:06:25+06:00
 menu:
   sidebar:
     name: Modernisation des Pipelines Jenkins
-    identifier: jekins
+    identifier: jenkins
     parent: realisations
     weight: 32
 ---
